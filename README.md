@@ -45,7 +45,7 @@ Export salary slips as PDF
 
 🚀 Setup Instructions
 1. Clone the repo
-git clone <your-github-repo-link>
+git clone https://github.com/Sikandar-07-code/Payroll-Management-System
 cd Payroll Management System
 
 2. Backend Setup
